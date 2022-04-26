@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/luiz-fonseca-725269238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
-  ![Snake animation](https://github.com/LV1n1/LV1n1/blob/dist/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LV1n1/LV1n1/blob/4e94c883788eacb8219729eb0a5c0a8f5342a95f/github-contribution-grid-snake.svg)
  
    
   
