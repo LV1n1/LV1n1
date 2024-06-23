@@ -1,7 +1,5 @@
 ### Olá, meu nome é Vinícius 👋
 
-- ☕ Gosto de Café
-- 🌱 Estudando Programação
 
 
 <div align="center">
